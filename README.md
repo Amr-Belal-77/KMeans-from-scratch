@@ -32,6 +32,16 @@ This approach enables a clear understanding of how the K-Means algorithm works u
   - `pandas`
   - `matplotlib` (optional, for visualization purposes)
 
+## Project Structure
+```text
+.
+├── notebooks/
+│   └── 01_kmeans_from_scratch.ipynb
+├── requirements.txt
+├── .gitignore
+├── LICENSE
+└── README.md
+
 ## Getting Started
 
 ### 1. Clone the Repository
@@ -39,4 +49,4 @@ This approach enables a clear understanding of how the K-Means algorithm works u
 Clone the repository to your local machine using:
 
 ```bash
-git clone https://github.com/Amr-Belal-77/K-means-implementation.git
+git clone https://github.com/Amr-Belal-77/KMeans-from-scratch.git
