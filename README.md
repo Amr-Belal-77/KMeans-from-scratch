@@ -34,13 +34,18 @@ This approach enables a clear understanding of how the K-Means algorithm works u
 
 ## Project Structure
 ```text
-.
+KMeans-from-scratch/
 ├── notebooks/
 │   └── 01_kmeans_from_scratch.ipynb
+├── scripts/
+│   └── kmeans_from_scratch.py
+├── assets/
+│   └── kmeans_result.png
 ├── requirements.txt
-├── .gitignore
 ├── LICENSE
+├── .gitignore
 └── README.md
+```
 
 ## Getting Started
 
