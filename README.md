@@ -39,8 +39,8 @@ KMeans-from-scratch/
 │   └── 01_kmeans_from_scratch.ipynb
 ├── scripts/
 │   └── kmeans_from_scratch.py
-├── assets/
-│   └── kmeans_result.png
+├── tests/
+│   └── test_basic.py
 ├── requirements.txt
 ├── LICENSE
 ├── .gitignore
